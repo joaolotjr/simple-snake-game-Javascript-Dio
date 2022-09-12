@@ -1,4 +1,4 @@
-<h2 align="center">Jogo de Cobrinha - #DIO</h2>
+<h2 align="center">Jogo da Cobrinha - #DIO</h2>
 
 ___
 
