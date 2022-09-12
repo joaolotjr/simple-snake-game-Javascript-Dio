@@ -32,7 +32,7 @@ ___
 
 ## :information_source: Sobre
 
-Criando um jogo de CObrinha.
+Criando um jogo de Cobrinha.
 
 Foi criado um jogo simples da cobrinha com forma simples de tema Pixel, utilizando tecnologias simples como HTML5, CSS3 e JavaScript.
 
