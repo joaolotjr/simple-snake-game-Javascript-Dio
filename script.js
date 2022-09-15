@@ -28,7 +28,7 @@ function criarCobrinha(){
 document.addEventListener('keydown', update);
 
 function update (event){
-    
+    if(event.keyCode == 37)
 }
 
 
