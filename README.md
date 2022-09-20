@@ -24,7 +24,7 @@ ___
   <a href="#licença">Licença</a> 
 </h3>
 
-___
+______
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/102186193/187985522-2b143a0a-4722-4066-8424-5c40dea159db.png" width="600">
